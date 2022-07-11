@@ -1,0 +1,39 @@
+img{
+	width: 150;
+	object-position: 50;
+	justify-content: center;
+	align-items: center;
+	
+
+}
+
+.login{
+	
+	width: 350px;
+	text-align: center;
+	justify-content: center;
+	padding: 40px;
+	box-sizing: border-box;
+	border-radius: 10px;
+    background-color: paleturquoise; 
+
+}
+
+body {
+    background-color: #1a75ff;
+	display: flex;
+	justify-content: center;
+	height: 650px;
+	align-items: center;
+	font-family: sans-serif;
+}
+
+h2{
+	height: 40px;
+	font-size: 30px;
+}
+
+input {
+	outline-color: white;
+	height: 35px;
+}
